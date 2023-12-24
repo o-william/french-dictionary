@@ -2,6 +2,10 @@ This repository is originally from https://github.com/hbenbel/French-Dictionary.
 
 All work is his. I only uploaded this here for my personal use in my projects and as a quick access backup. Feel free to use. My use case for this is for practicing with a large set of data, for things like sorting algorithms in Python and C++. I am not sure if this can be used in production projects, because definitions and words are being updated periodically. Hence, using APIs from dictionary sites might be recommended.
 
+Last update date: 24/12/2023
+
+Below is his description of the repository:
+
 
 ███████╗██████╗ ███████╗███╗   ██╗ ██████╗██╗  ██╗
 ██╔════╝██╔══██╗██╔════╝████╗  ██║██╔════╝██║  ██║
